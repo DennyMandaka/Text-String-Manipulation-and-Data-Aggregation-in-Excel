@@ -3,7 +3,7 @@
 To demonstrate Excel skills by cleaning and manipulating text data within an HR dataset, this project highlights the use of Excel functions to handle common data cleaning tasks such as splitting, joining, and validating data fields. Additionally, the file includes an "HR Analytics" sheet showcasing aggregation functions in Excel.
 
 ## Dataset(s)
-- The <a href="https://github.com/DennyMandaka/Text-String-Manipulation-and-Data-Aggregation-in-Excel/blob/main/Text%20String%20Manipulation%20and%20Data%20Aggregation%20in%20Excel.xlsx">dataset</a> was sourced from the "Excel Skills for Data Analytics and Visualization" course offered by Macquarie University on Coursera. It contains information from an HR database, including employee IDs, names, emails, hire dates, departments, office locations, hourly rates, leave days, and more.
+- The <a href="https://github.com/DennyMandaka/Text-String-Manipulation-and-Data-Aggregation-in-Excel/blob/main/Data%20Aggregation%20and%20Text%20String%20Manipulation%20in%20Excel.xlsx">dataset</a> was sourced from the "Excel Skills for Data Analytics and Visualization" course offered by Macquarie University on Coursera. It contains information from an HR database, including employee IDs, names, emails, hire dates, departments, office locations, hourly rates, leave days, and more.
 
 ## Data Cleaning and Text String Manipulation
 - In C4, in the HR Data sheet join the data in A4 and B4 to create the employee ID F1180. Copy the formula down for the rest of the staff.
